@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = nik.stojkov@gmail.com
+	name = Nik Stojkov
